@@ -1,1 +1,1 @@
-console.log("container is running")
+import ('./bootstrap')
